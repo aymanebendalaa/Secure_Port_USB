@@ -5,5 +5,5 @@ I’ve just finished developing a Python script that allows dynamic management o
 
 🛠 Key Features:
 // Easily enable/disable USB ports
-// Simple and dynamic user input for control
+/n / Simple and dynamic user input for control
 // Enhances system security by managing USB device access
